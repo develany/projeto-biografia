@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(175, 226, 170);
+    font-family:cursive;
+    padding: 10px 80px 80px;
+}
+h1 { 
+    font-style:italic;
+    font-family:cursive;
+    font-size: 60px;
+    text-align: center
+}
+h2 {
+    font-size: 45px;
+    color: rgb(255, 60, 0);
+    padding-left: 70px;
+}
+h3 {
+    font-size: 30px;
+    color: rgb(122, 5, 255);
+    text-align: center
+}
+p {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+ol.principal {
+    font-style:oblique;
+    padding-left: 130px;
+    font-size: 25px;
+}
+ol.secundaria {
+    font-size: 20px;
+}
+ul {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    padding-left: 70px;
+}
+.img { 
+    text-align: center;
+}
+table, thead, tr, th, td {
+    font-style:oblique;
+    font-size: 60px;
+    border: solid 3px black;
+    border-collapse: collapse;
+    text-align: center
+}
+thead{
+    background-color: rgb(240, 156, 212);
+    color: rgb(68, 0, 255);
+}
+th {
+    padding: 15px 15px 15px;
+}
+th.colunanome {
+    padding: 15px 70px 15px;
+    text-align: center;
+}
+td {
+    font-size: 50px;
+}
